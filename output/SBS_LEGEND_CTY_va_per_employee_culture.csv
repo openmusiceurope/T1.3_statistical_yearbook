@@ -1,0 +1,2 @@
+table,concept,dataset_id,freq,unit,transformation,details
+SBS_CTY_va_per_employee_culture,"Value added per employee, cultural sector (CLT, thousand euro)",sbs_ovw_act,A,,Computed as (AV_MEUR * 1000) / EMP_NR using CLT aggregate (nace_r2=CLT),"geo=EU27 countries; nace_r2=CLT; indic_sbs=AV_MEUR,EMP_NR; years=2023,2022,2021"

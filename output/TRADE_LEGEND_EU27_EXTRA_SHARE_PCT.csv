@@ -1,0 +1,2 @@
+table,scope,metric,dataset,unit,years,details
+TRADE_EU27_EXTRA_SHARE_PCT,Extra-EU,Share (% of total),cult_trd_prd,THS_EUR,"2023, 2022, 2021",Shares computed within each year as 100 * product / TOTAL using extra-EU totals. TOTAL is the official prod_ct category (not computed as a sum). Total trade is imports + exports (sum over stk_flow). EU27 totals are sum of Member States.

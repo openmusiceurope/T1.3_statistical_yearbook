@@ -1,0 +1,3 @@
+table,concept,dataset_id,freq,unit,transformation,details
+SBS_CTY_enterprises_music,"Total number of enterprises, cultural sector (CLT) (music sector minimum)",sbs_sc_ovw,A,,Aggregated over NACE codes (minimum); size_emp=TOTAL,"geo=EU27 countries; size_emp=TOTAL; indic_sbs=ENT_NR; nace_r2=J592,C322; years=2023,2022,2021"
+SBS_CTY_enterprises_music,"Total number of enterprises, cultural sector (CLT) (music sector maximum)",sbs_sc_ovw,A,,Aggregated over NACE codes (maximum); size_emp=TOTAL,"geo=EU27 countries; size_emp=TOTAL; indic_sbs=ENT_NR; nace_r2=J592,C322,C182,G476,J601,J602,M731,R90; years=2023,2022,2021"

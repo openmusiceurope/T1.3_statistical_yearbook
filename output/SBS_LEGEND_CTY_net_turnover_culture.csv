@@ -1,0 +1,2 @@
+table,concept,dataset_id,freq,unit,transformation,details
+SBS_CTY_net_turnover_culture,"Total net turnover, cultural sector (CLT, million euro)",sbs_ovw_act,A,,Cultural sector uses CLT aggregate (nace_r2=CLT) from sbs_ovw_act,"geo=EU27 countries; nace_r2=CLT; indic_sbs=NETTUR_MEUR; years=2023,2022,2021"

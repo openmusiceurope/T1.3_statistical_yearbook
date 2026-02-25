@@ -1,0 +1,4 @@
+table,concept,dataset_id,freq,unit,transformation,details
+SBS_EU27_net_turnover_3x3,"Total net turnover, cultural sector (CLT, million euro)",sbs_ovw_act,A,,Cultural sector uses CLT aggregate (nace_r2=CLT) from sbs_ovw_act,"geo=EU27_2020; nace_r2=CLT; indic_sbs=NETTUR_MEUR; years=2023,2022,2021"
+SBS_EU27_net_turnover_3x3,"Total net turnover, music sector minimum (million euro)",sbs_sc_ovw,A,,Aggregated over NACE codes (music minimum) from sbs_sc_ovw; size_emp=TOTAL,"geo=EU27_2020; size_emp=TOTAL; indic_sbs=NETTUR_MEUR; nace_r2=J592,C322; years=2023,2022,2021"
+SBS_EU27_net_turnover_3x3,"Total net turnover, music sector maximum (million euro)",sbs_sc_ovw,A,,Aggregated over NACE codes (music maximum) from sbs_sc_ovw; size_emp=TOTAL,"geo=EU27_2020; size_emp=TOTAL; indic_sbs=NETTUR_MEUR; nace_r2=J592,C322,C182,G476,J601,J602,M731,R90; years=2023,2022,2021"

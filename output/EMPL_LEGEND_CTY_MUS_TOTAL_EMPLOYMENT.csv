@@ -1,0 +1,3 @@
+table,concept,dataset_id,freq,unit,transformation,details
+EMPL_CTY_MUS_TOTAL_EMPLOYMENT,"Total music employment (minimum, thousand persons)",sbs_sc_ovw,A,,"Aggregated over NACE codes; EMP_NR divided by 1,000","geo=EU27 countries; size_emp=TOTAL; indic_sbs=EMP_NR; nace_r2=J592,C322; years=2023,2022,2021"
+EMPL_CTY_MUS_TOTAL_EMPLOYMENT,"Total music employment (maximum, thousand persons)",sbs_sc_ovw,A,,"Aggregated over NACE codes; EMP_NR divided by 1,000","geo=EU27 countries; size_emp=TOTAL; indic_sbs=EMP_NR; nace_r2=J592,C322,C182,G476,J601,J602,M731,R90; years=2023,2022,2021"

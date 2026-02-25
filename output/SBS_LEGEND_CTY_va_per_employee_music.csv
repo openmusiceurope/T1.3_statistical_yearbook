@@ -1,0 +1,3 @@
+table,concept,dataset_id,freq,unit,transformation,details
+SBS_CTY_va_per_employee_music,"Value added per employee, music sector minimum (thousand euro)",sbs_sc_ovw,A,,Computed as (sum AV_MEUR * 1000) / (sum EMP_NR) over NACE codes; size_emp=TOTAL,"geo=EU27 countries; size_emp=TOTAL; indic_sbs=AV_MEUR,EMP_NR; nace_r2=J592,C322; years=2023,2022,2021"
+SBS_CTY_va_per_employee_music,"Value added per employee, music sector maximum (thousand euro)",sbs_sc_ovw,A,,Computed as (sum AV_MEUR * 1000) / (sum EMP_NR) over NACE codes; size_emp=TOTAL,"geo=EU27 countries; size_emp=TOTAL; indic_sbs=AV_MEUR,EMP_NR; nace_r2=J592,C322,C182,G476,J601,J602,M731,R90; years=2023,2022,2021"
