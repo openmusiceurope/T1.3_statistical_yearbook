@@ -1,0 +1,2 @@
+table,dataset_id,geo_coverage,freq,unit,years_shown,coicop,metric,details
+HICP_CTY_T17_RATE,prc_hicp_aind,EU27 countries,A,RCH_A_AVG,"2023, 2022, 2021","CP09111, CP09113, CP09119, CP09141, CP0915, CP09221, CP09421, CP09423","Annual average rate of change (%, YoY)","Direct from Eurostat prc_hicp_aind with unit=RCH_A_AVG (annual average rate of change) for the specified COICOP categories, by country."

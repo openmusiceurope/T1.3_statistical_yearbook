@@ -1,0 +1,2 @@
+table,concept,dataset_id,freq,unit,transformation,details
+SBS_CTY_enterprises_culture,"Total number of enterprises, cultural sector (CLT)",sbs_ovw_act,A,,Cultural sector uses CLT aggregate (nace_r2=CLT) from sbs_ovw_act,"geo=EU27 countries; nace_r2=CLT; indic_sbs=ENT_NR; years=2023,2022,2021"

@@ -1,0 +1,2 @@
+table,scope,metric,dataset,unit,years,details
+TRADE_EU27_INTRA_LEVEL_THS_EUR,Intra-EU,Level (thousand euro),cult_trd_prd,THS_EUR,"2023, 2022, 2021","Computed from Eurostat cult_trd_prd. Partner=INT_EU27_2020. Total trade is imports + exports (sum over stk_flow). EU27 totals are computed as the sum of EU27 Member States. Rows correspond to official prod_ct categories (TOTAL, MUSI, RECMED_FILMVG_XVC)."

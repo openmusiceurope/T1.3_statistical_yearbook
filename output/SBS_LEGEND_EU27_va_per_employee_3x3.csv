@@ -1,0 +1,4 @@
+table,concept,dataset_id,freq,unit,transformation,details
+SBS_EU27_va_per_employee_3x3,"Value added per employee, cultural sector (CLT, thousand euro)",sbs_ovw_act,A,,Computed as (AV_MEUR * 1000) / EMP_NR using CLT aggregate (nace_r2=CLT),"geo=EU27_2020; nace_r2=CLT; indic_sbs=AV_MEUR,EMP_NR; years=2023,2022,2021"
+SBS_EU27_va_per_employee_3x3,"Value added per employee, music sector minimum (thousand euro)",sbs_sc_ovw,A,,Computed as (sum AV_MEUR * 1000) / (sum EMP_NR) over NACE codes; size_emp=TOTAL,"geo=EU27_2020; size_emp=TOTAL; nace_r2=J592,C322; indic_sbs=AV_MEUR,EMP_NR; years=2023,2022,2021"
+SBS_EU27_va_per_employee_3x3,"Value added per employee, music sector maximum (thousand euro)",sbs_sc_ovw,A,,Computed as (sum AV_MEUR * 1000) / (sum EMP_NR) over NACE codes; size_emp=TOTAL,"geo=EU27_2020; size_emp=TOTAL; nace_r2=J592,C322,C182,G476,J601,J602,M731,R90; indic_sbs=AV_MEUR,EMP_NR; years=2023,2022,2021"

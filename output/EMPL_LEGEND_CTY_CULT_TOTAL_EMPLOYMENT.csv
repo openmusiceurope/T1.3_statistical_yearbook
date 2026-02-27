@@ -1,0 +1,2 @@
+table,concept,dataset_id,freq,unit,transformation,details
+EMPL_CTY_CULT_TOTAL_EMPLOYMENT,Total cultural employment (thousand persons),cult_emp_sex,A,THS_PER,Filtered to unit=THS_PER; used as reported by Eurostat,"sex=T; geo=EU27 countries; unit=THS_PER; years=2023,2022,2021"

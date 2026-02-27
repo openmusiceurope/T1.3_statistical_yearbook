@@ -1,0 +1,4 @@
+table,concept,dataset_id,freq,unit,transformation,details
+EMPL_EU27_EMP_PER_ENTERPRISE_3x3,"Persons employed per enterprise, cultural sector (CLT)",sbs_ovw_act,A,,Direct Eurostat indicator EMP_ENT_NR (no recomputation),"geo=EU27_2020; nace_r2=CLT; indic_sbs=EMP_ENT_NR; years=2023,2022,2021"
+EMPL_EU27_EMP_PER_ENTERPRISE_3x3,"Persons employed per enterprise, music sector (minimum)",sbs_sc_ovw,A,,Computed as sum(EMP_NR) / sum(ENT_NR) over NACE codes,"geo=EU27_2020; size_emp=TOTAL; indic_sbs=EMP_NR,ENT_NR; nace_r2=J592,C322; years=2023,2022,2021"
+EMPL_EU27_EMP_PER_ENTERPRISE_3x3,"Persons employed per enterprise, music sector (maximum)",sbs_sc_ovw,A,,Computed as sum(EMP_NR) / sum(ENT_NR) over NACE codes,"geo=EU27_2020; size_emp=TOTAL; indic_sbs=EMP_NR,ENT_NR; nace_r2=J592,C322,C182,G476,J601,J602,M731,R90; years=2023,2022,2021"
